@@ -1,4 +1,4 @@
-# DreaMS (Deep Representations Empowering The Annotation of Mass Spectra)
+# DreaMS (Deep Representations Empowering the Annotation of Mass Spectra)
 
 Source code for the paper ["Emergence of molecular structures from repository-scale self-supervised learning on tandem mass spectra"](https://chemrxiv.org/engage/chemrxiv/article-details/6566e510cf8b3c3cd76098b2).
 
