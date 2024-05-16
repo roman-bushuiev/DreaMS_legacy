@@ -1,4 +1,4 @@
-**This repository was moved to https://github.com/pluskal-lab/DreaMS.**
+🛑 **This repository was moved to https://github.com/pluskal-lab/DreaMS.** 🛑
 
 # DreaMS (Deep Representations Empowering the Annotation of Mass Spectra)
 
