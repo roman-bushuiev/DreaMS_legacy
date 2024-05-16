@@ -1,3 +1,5 @@
+**This repository was moved to https://github.com/pluskal-lab/DreaMS.**
+
 # DreaMS (Deep Representations Empowering the Annotation of Mass Spectra)
 
 Source code for the paper ["Emergence of molecular structures from repository-scale self-supervised learning on tandem mass spectra"](https://chemrxiv.org/engage/chemrxiv/article-details/6626775021291e5d1d61967f).
